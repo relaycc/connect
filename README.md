@@ -1,6 +1,12 @@
-# daopanel-connect
+# daopanel connect
 
-A chrome browser extension that links twitter profile names to Daopanel Chat 
+A [Chrome extension](https://chrome.google.com/webstore/category/extensions?hl=en) that links Twitter usernames to [daopanel chat](https://daopanel.chat)
 conversations
 
-[Daopanel Chat](https://daopanel.chat/) is powered by [XMTP](https://xmtp.com/)
+# Example
+
+TODO 
+
+---
+
+[daopanel chat](https://daopanel.chat/) is powered by [XMTP](https://xmtp.com/)
