@@ -1,0 +1,29 @@
+{ 
+	"manifest_version": 3, 
+	"name": "Daopanel Connect", 
+	"description": "", 
+	"version": "1.0", 
+	"author": "Daopanel",
+	"action": {    
+		"default_title": "Daopanel",
+    "default_icon": "greyTag.png"
+	},
+	"web_accessible_resources": [{
+		"resources": ["tag.png"],
+		"matches": ["https://*.twitter.com/*"]
+	}],
+  "icons": { "16": "tag.png",
+           "48": "tag.png",
+          "128": "tag.png" },
+  "background": {
+    "service_worker": "background.js"
+  },
+	"permissions": [
+		"tabs",
+		"scripting",
+		"activeTab"
+	 ],
+	 "host_permissions": [
+		"<all_urls>"
+	]
+ }
