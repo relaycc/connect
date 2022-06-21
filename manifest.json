@@ -2,7 +2,7 @@
 	"manifest_version": 3, 
 	"name": "Daopanel Connect", 
 	"description": "", 
-	"version": "1.0", 
+	"version": "1.1",
 	"author": "Daopanel",
 	"action": {    
 		"default_title": "Daopanel",
